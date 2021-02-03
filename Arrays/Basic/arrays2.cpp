@@ -15,12 +15,12 @@ int BinarySearch(int *arr , int start , int end , int  k){
     int mid = (start + end)/2;
     
     if(start <= end){
-    if(arr[mid] == k){
+    if(*(arr+mid) == k){
         
         return 1;
 
     }
-    else if(arr[mid] > k){
+    else if(*(arr + mid) > k){
         return BinarySearch(arr,start, mid -1 , k);
     }
     else
