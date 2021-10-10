@@ -1,2 +1,2 @@
 # PROBLEM---SOLVING
-This repository contains solutions to the DSA problems from platforms GFG, Leetcode and InterviewBit.
+This repository contains solutions to some interesting yet tricky DSA problems I practiced from platforms like GFG, Leetcode and InterviewBit.
